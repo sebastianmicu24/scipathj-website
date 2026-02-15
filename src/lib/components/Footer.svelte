@@ -42,7 +42,7 @@
     </div>
     
     <div class="footer-bottom">
-      <p class="copyright">© {currentYear} SciPathJ Team. Open-source under MIT License.</p>
+      <p class="copyright">© {currentYear} SciPathJ Team. Open-source under GPLv3 License.</p>
     </div>
   </div>
 </footer>

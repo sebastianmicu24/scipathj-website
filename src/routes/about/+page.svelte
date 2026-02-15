@@ -168,7 +168,7 @@
         <div class="opensource-text">
           <h2>Open Source Commitment</h2>
           <p>
-            SciPathJ is released under the MIT License, ensuring that it remains free and open for the scientific community. 
+            SciPathJ is released under the GNU General Public License v3.0 (GPLv3), ensuring that it remains free and open for the scientific community. 
             We believe that transparency and collaboration are essential for advancing scientific research.
           </p>
           <p>
@@ -199,7 +199,7 @@
                 <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
               </svg>
             </span>
-            <span class="stat-label">MIT License</span>
+            <span class="stat-label">GPLv3 License</span>
           </div>
           <div class="stat-box">
             <span class="stat-icon">
