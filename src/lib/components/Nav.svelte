@@ -140,6 +140,15 @@
   @media (max-width: 768px) {
     .nav-toggle {
       display: flex;
+      background-color: var(--color-primary);
+      padding: 8px;
+      border-radius: 4px;
+      width: 44px;
+      height: 36px;
+    }
+    
+    .hamburger-line {
+      background-color: var(--color-white);
     }
     
     .nav-menu {

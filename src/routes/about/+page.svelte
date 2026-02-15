@@ -30,7 +30,7 @@
     { year: 'March 2025', event: 'Evolved to a plugin called SCHELI (Segmentation and Classification of H&E slides of the Liver) using Stardist and XGBoost' },
     { year: 'July 2025', event: 'Presented as a Master Thesis at Sapienza University of Rome' },
     { year: 'August 2025', event: 'GUI added and renamed to SciPathJ as it became usable for slides of other tissues, not only liver' },
-    { year: 'September 2025', event: 'SciPathJ was presented at the Maker Faire Exposition in Rome' }
+    { year: 'October 2025', event: 'SciPathJ was presented at the Maker Faire Exposition in Rome' }
   ];
   
   const acknowledgements = [
