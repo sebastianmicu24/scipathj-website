@@ -5,7 +5,7 @@
       description: 'Complete standalone application. No additional software required.',
       version: 'v1.0.0',
       platform: 'Cross-platform (Java 11+)',
-      downloadUrl: 'https://youtu.be/eT4qwPRsZnE',
+      downloadUrl: 'https://drive.google.com/file/d/1v-_iiADQWxqjXDaBkCGaNjiFPi2Ngynn/view?usp=drive_link',
       size: '~50 MB',
       recommended: true
     },
@@ -14,7 +14,7 @@
       description: 'Install as a plugin within ImageJ or Fiji for integrated workflow.',
       version: 'v1.0.0',
       platform: 'ImageJ 1.53+ / Fiji',
-      downloadUrl: 'https://youtu.be/eT4qwPRsZnE',
+      downloadUrl: 'https://drive.google.com/file/d/1v-_iiADQWxqjXDaBkCGaNjiFPi2Ngynn/view?usp=drive_link',
       size: '~45 MB',
       recommended: false
     }
@@ -68,7 +68,7 @@
                 <span class="detail-value">{option.size}</span>
               </div>
             </div>
-            <a href="https://youtu.be/eT4qwPRsZnE" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-lg download-btn">
+            <a href="https://drive.google.com/file/d/1v-_iiADQWxqjXDaBkCGaNjiFPi2Ngynn/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-lg download-btn">
               Download
             </a>
           </div>
@@ -187,7 +187,7 @@
           <p>Clone the repository and build from source</p>
         </a>
         
-        <a href="https://youtu.be/eT4qwPRsZnE" target="_blank" rel="noopener noreferrer" class="source-card">
+        <a href="https://drive.google.com/file/d/1v-_iiADQWxqjXDaBkCGaNjiFPi2Ngynn/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="source-card">
           <div class="source-icon">
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
