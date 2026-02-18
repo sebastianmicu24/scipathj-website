@@ -32,7 +32,7 @@
             <h3>Standalone Installation</h3>
             <p>SciPathJ is distributed as a Windows executable installer that guides you through the installation process:</p>
             <ol>
-              <li>Download the installer (.exe) from the <a href="/download">Download page</a></li>
+              <li>Download the installer (.exe) from the <a href="https://youtu.be/eT4qwPRsZnE" target="_blank" rel="noopener noreferrer">Download page</a></li>
               <li>Double-click the installer to launch the setup wizard</li>
               <li>Follow the on-screen instructions to complete the installation</li>
               <li>Launch SciPathJ from the Start Menu or desktop shortcut</li>
